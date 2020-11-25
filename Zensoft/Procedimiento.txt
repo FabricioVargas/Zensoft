@@ -1,0 +1,10 @@
+create or alter procedure [SP_CNS_Usuarios]
+(@grupo varchar(25)) as
+ select g.idGrupo as CodigoGrupo,
+ u.nombreUsuario as NombreUsuario,
+ u.correoElectronico as Correo
+ from TblUsuario u with(nolock),
+ tblGrupo g with (nolock)
+ where g.idGrupo like '%' +@grupo+ '%'
+ and u.idGrupo = g.idGrupo
+go

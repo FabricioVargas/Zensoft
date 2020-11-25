@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="752a5fed443941b09b4eeffaec65b0bf" Name="Diagram1">
+        <EntityTypeShape EntityType="zensoftModel.TblActivos" Width="1.5" PointX="3" PointY="15" IsExpanded="true" />
+        <EntityTypeShape EntityType="zensoftModel.TblActivoSolicitado" Width="1.5" PointX="5.25" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="zensoftModel.TblConsumibles" Width="1.5" PointX="6" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="zensoftModel.TblConsumibleSolicitado" Width="1.5" PointX="8.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="zensoftModel.TblDepartamento" Width="1.5" PointX="3.75" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="zensoftModel.TblDependenciaOrganizativa" Width="1.5" PointX="3" PointY="10.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="zensoftModel.TblEmpleado" Width="1.5" PointX="6" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="zensoftModel.TblGrupo" Width="1.5" PointX="1.5" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="zensoftModel.TblMovimiento" Width="1.5" PointX="11.25" PointY="10.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="zensoftModel.TblMovimientoConsumibles" Width="1.5" PointX="13.5" PointY="10.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="zensoftModel.TblPlaza" Width="1.5" PointX="8.25" PointY="13" IsExpanded="true" />
+        <EntityTypeShape EntityType="zensoftModel.TblTraslado" Width="1.5" PointX="3" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="zensoftModel.TblTrasladoActivo" Width="1.5" PointX="5.25" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="zensoftModel.TblTrasladoConsumibles" Width="1.5" PointX="8.25" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="zensoftModel.TblUbicacion" Width="1.5" PointX="8.25" PointY="15.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="zensoftModel.TblUnidadOrganizativa" Width="1.5" PointX="0.75" PointY="10.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="zensoftModel.TblUsuario" Width="1.5" PointX="0.75" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="zensoftModel.TblMovimientoActivo" Width="1.5" PointX="13.5" PointY="7.625" IsExpanded="true" />
+        <AssociationConnector Association="zensoftModel.FK__TblActivo__patri__5AEE82B9" ManuallyRouted="false" />
+        <AssociationConnector Association="zensoftModel.FK__TblMovimi__patri__6754599E" ManuallyRouted="false" />
+        <AssociationConnector Association="zensoftModel.FK__TblTrasla__patri__619B8048" ManuallyRouted="false" />
+        <AssociationConnector Association="zensoftModel.FK__TblMovimi__codig__693CA210" ManuallyRouted="false" />
+        <AssociationConnector Association="zensoftModel.FK__TblTrasla__codig__6383C8BA" ManuallyRouted="false" />
+        <AssociationConnector Association="zensoftModel.FK__TblEmplea__idDep__5CD6CB2B" ManuallyRouted="false" />
+        <AssociationConnector Association="zensoftModel.FK__TblDepend__unida__6A30C649" ManuallyRouted="false" />
+        <AssociationConnector Association="zensoftModel.FK__TblDepend__unida__6B24EA82" ManuallyRouted="false" />
+        <AssociationConnector Association="zensoftModel.FK__TblEmplea__codig__5DCAEF64" ManuallyRouted="false" />
+        <AssociationConnector Association="zensoftModel.FK__TblMovimi__cedEm__656C112C" ManuallyRouted="false" />
+        <AssociationConnector Association="zensoftModel.FK__TblPlaza__cedula__5BE2A6F2" ManuallyRouted="false" />
+        <AssociationConnector Association="zensoftModel.FK__TblUbicac__cedul__5EBF139D" ManuallyRouted="false" />
+        <AssociationConnector Association="zensoftModel.FK__TblUsuari__idGru__5FB337D6" ManuallyRouted="false" />
+        <AssociationConnector Association="zensoftModel.FK__TblMovimi__idMov__66603565" ManuallyRouted="false" />
+        <AssociationConnector Association="zensoftModel.FK__TblMovimi__idMov__68487DD7" ManuallyRouted="false" />
+        <AssociationConnector Association="zensoftModel.FK__TblMovimi__nombr__6477ECF3" ManuallyRouted="false" />
+        <AssociationConnector Association="zensoftModel.FK__TblTrasla__idTra__60A75C0F" ManuallyRouted="false" />
+        <AssociationConnector Association="zensoftModel.FK__TblTrasla__idTra__628FA481" ManuallyRouted="false" />
+        <AssociationConnector Association="zensoftModel.FK__TblTrasla__nombr__440B1D61" ManuallyRouted="false" />
+        <AssociationConnector Association="zensoftModel.FK__TblTrasla__unida__6C190EBB" ManuallyRouted="false" />
+        <AssociationConnector Association="zensoftModel.FK__TblTrasla__unida__6D0D32F4" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

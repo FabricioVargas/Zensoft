@@ -1,0 +1,69 @@
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\bin\Release\Presentation.exe.config
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\bin\Release\Presentation.exe
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\bin\Release\Presentation.pdb
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\bin\Release\Entidades.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\bin\Release\EntityFramework.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\bin\Release\LogicaNegocio.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\bin\Release\AccesoDatos.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\bin\Release\LogicaNegocio.pdb
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\bin\Release\Entidades.pdb
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\bin\Release\Entidades.dll.config
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\bin\Release\EntityFramework.xml
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\bin\Release\AccesoDatos.pdb
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Release\Presentation.csprojAssemblyReference.cache
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Release\Presentation.Frm_A_Agregar.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Release\Presentation.Frm_A_Lista.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Release\Presentation.Frm_C_Agregar.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Release\Presentation.Frm_C_Lista.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Release\Presentation.Frm_E_Agregar.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Release\Presentation.Frm_E_Consulta2.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Release\Presentation.Frm_GDA_Lista2.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Release\Presentation.Frm_GDA_Realizar.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Release\Presentation.Frm_GEC_Lista2.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Release\Presentation.Frm_GEC_Realizar.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Release\Presentation.Frm_GPA_Lista2.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Release\Presentation.Frm_GPA_Realizar.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Release\Presentation.Frm_MenuPrincipal.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Release\Presentation.Frm_S_Bitacora.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Release\Presentation.Frm_S.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Release\Presentation.Frm_TACU_Lista.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Release\Presentation.Frm_TACU_Agregar.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Release\Presentation.Frm_U_Agregar.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Release\Presentation.Frm_U_Consultar2.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Release\Presentation.Frm_U_Modificar.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Release\Presentation.Frm_U_Verificación.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Release\Presentation.Frm_UO_Agregar.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Release\Presentation.Frm_UO_Consultar2.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Release\Presentation.Properties.Resources.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Release\Presentation.csproj.GenerateResource.cache
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Release\Presentation.csproj.CopyComplete
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Release\Presentation.exe
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Release\Presentation.pdb
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Release\Presentation.csprojAssemblyReference.cache
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Release\Presentation.Frm_A_Agregar.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Release\Presentation.Frm_A_Lista.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Release\Presentation.Frm_C_Agregar.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Release\Presentation.Frm_C_Lista.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Release\Presentation.Frm_E_Agregar.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Release\Presentation.Frm_E_Consulta2.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Release\Presentation.Frm_GDA_Lista2.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Release\Presentation.Frm_GDA_Realizar.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Release\Presentation.Frm_GEC_Lista2.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Release\Presentation.Frm_GEC_Realizar.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Release\Presentation.Frm_GPA_Lista2.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Release\Presentation.Frm_GPA_Realizar.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Release\Presentation.Frm_MenuPrincipal.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Release\Presentation.Frm_S_Bitacora.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Release\Presentation.Frm_S.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Release\Presentation.Frm_TACU_Lista.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Release\Presentation.Frm_TACU_Agregar.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Release\Presentation.Frm_U_Agregar.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Release\Presentation.Frm_U_Consultar2.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Release\Presentation.Frm_U_Modificar.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Release\Presentation.Frm_U_Verificación.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Release\Presentation.Frm_UO_Agregar.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Release\Presentation.Frm_UO_Consultar2.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Release\Presentation.Properties.Resources.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Release\Presentation.csproj.GenerateResource.cache

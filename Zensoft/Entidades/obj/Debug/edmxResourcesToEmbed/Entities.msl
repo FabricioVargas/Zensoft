@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="zensoftModelStoreContainer" CdmEntityContainer="zensoftEntities">
+    <EntitySetMapping Name="TblActivos">
+      <EntityTypeMapping TypeName="zensoftModel.TblActivos">
+        <MappingFragment StoreEntitySet="TblActivos">
+          <ScalarProperty Name="patrimonio" ColumnName="patrimonio" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="marca" ColumnName="marca" />
+          <ScalarProperty Name="modelo" ColumnName="modelo" />
+          <ScalarProperty Name="serie" ColumnName="serie" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+          <ScalarProperty Name="estado" ColumnName="estado" />
+          <ScalarProperty Name="disponibilidad" ColumnName="disponibilidad" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TblActivoSolicitado">
+      <EntityTypeMapping TypeName="zensoftModel.TblActivoSolicitado">
+        <MappingFragment StoreEntitySet="TblActivoSolicitado">
+          <ScalarProperty Name="patrimonio" ColumnName="patrimonio" />
+          <ScalarProperty Name="fecha" ColumnName="fecha" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TblConsumibles">
+      <EntityTypeMapping TypeName="zensoftModel.TblConsumibles">
+        <MappingFragment StoreEntitySet="TblConsumibles">
+          <ScalarProperty Name="codigo" ColumnName="codigo" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="marca" ColumnName="marca" />
+          <ScalarProperty Name="modelo" ColumnName="modelo" />
+          <ScalarProperty Name="numeroSerie" ColumnName="numeroSerie" />
+          <ScalarProperty Name="descripción" ColumnName="descripción" />
+          <ScalarProperty Name="unidadMedida" ColumnName="unidadMedida" />
+          <ScalarProperty Name="stock" ColumnName="stock" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TblConsumibleSolicitado">
+      <EntityTypeMapping TypeName="zensoftModel.TblConsumibleSolicitado">
+        <MappingFragment StoreEntitySet="TblConsumibleSolicitado">
+          <ScalarProperty Name="codigo" ColumnName="codigo" />
+          <ScalarProperty Name="cantidad" ColumnName="cantidad" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TblDepartamento">
+      <EntityTypeMapping TypeName="zensoftModel.TblDepartamento">
+        <MappingFragment StoreEntitySet="TblDepartamento">
+          <ScalarProperty Name="idDepartamento" ColumnName="idDepartamento" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TblDependenciaOrganizativa">
+      <EntityTypeMapping TypeName="zensoftModel.TblDependenciaOrganizativa">
+        <MappingFragment StoreEntitySet="TblDependenciaOrganizativa">
+          <ScalarProperty Name="unidadCabecilla" ColumnName="unidadCabecilla" />
+          <ScalarProperty Name="unidadDependiente" ColumnName="unidadDependiente" />
+          <ScalarProperty Name="codigo" ColumnName="codigo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TblEmpleado">
+      <EntityTypeMapping TypeName="zensoftModel.TblEmpleado">
+        <MappingFragment StoreEntitySet="TblEmpleado">
+          <ScalarProperty Name="cedula" ColumnName="cedula" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="telefono" ColumnName="telefono" />
+          <ScalarProperty Name="correo" ColumnName="correo" />
+          <ScalarProperty Name="condicion" ColumnName="condicion" />
+          <ScalarProperty Name="estado" ColumnName="estado" />
+          <ScalarProperty Name="codigoSede" ColumnName="codigoSede" />
+          <ScalarProperty Name="idDepartamento" ColumnName="idDepartamento" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TblGrupo">
+      <EntityTypeMapping TypeName="zensoftModel.TblGrupo">
+        <MappingFragment StoreEntitySet="TblGrupo">
+          <ScalarProperty Name="idGrupo" ColumnName="idGrupo" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TblMovimiento">
+      <EntityTypeMapping TypeName="zensoftModel.TblMovimiento">
+        <MappingFragment StoreEntitySet="TblMovimiento">
+          <ScalarProperty Name="idMovimiento" ColumnName="idMovimiento" />
+          <ScalarProperty Name="nombreUsuario" ColumnName="nombreUsuario" />
+          <ScalarProperty Name="cedEmpleado" ColumnName="cedEmpleado" />
+          <ScalarProperty Name="observacion" ColumnName="observacion" />
+          <ScalarProperty Name="fecha" ColumnName="fecha" />
+          <ScalarProperty Name="accion" ColumnName="accion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TblMovimientoConsumibles">
+      <EntityTypeMapping TypeName="zensoftModel.TblMovimientoConsumibles">
+        <MappingFragment StoreEntitySet="TblMovimientoConsumibles">
+          <ScalarProperty Name="idMovimiento" ColumnName="idMovimiento" />
+          <ScalarProperty Name="codigo" ColumnName="codigo" />
+          <ScalarProperty Name="cantidad" ColumnName="cantidad" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TblPlaza">
+      <EntityTypeMapping TypeName="zensoftModel.TblPlaza">
+        <MappingFragment StoreEntitySet="TblPlaza">
+          <ScalarProperty Name="cedula" ColumnName="cedula" />
+          <ScalarProperty Name="numPlaza" ColumnName="numPlaza" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TblTraslado">
+      <EntityTypeMapping TypeName="zensoftModel.TblTraslado">
+        <MappingFragment StoreEntitySet="TblTraslado">
+          <ScalarProperty Name="idTraslado" ColumnName="idTraslado" />
+          <ScalarProperty Name="nombreUsuario" ColumnName="nombreUsuario" />
+          <ScalarProperty Name="unidadSalida" ColumnName="unidadSalida" />
+          <ScalarProperty Name="unidadDestino" ColumnName="unidadDestino" />
+          <ScalarProperty Name="fecha" ColumnName="fecha" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TblTrasladoActivo">
+      <EntityTypeMapping TypeName="zensoftModel.TblTrasladoActivo">
+        <MappingFragment StoreEntitySet="TblTrasladoActivo">
+          <ScalarProperty Name="idTraslado" ColumnName="idTraslado" />
+          <ScalarProperty Name="patrimonio" ColumnName="patrimonio" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="marca" ColumnName="marca" />
+          <ScalarProperty Name="modelo" ColumnName="modelo" />
+          <ScalarProperty Name="serie" ColumnName="serie" />
+          <ScalarProperty Name="cantidad" ColumnName="cantidad" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TblTrasladoConsumibles">
+      <EntityTypeMapping TypeName="zensoftModel.TblTrasladoConsumibles">
+        <MappingFragment StoreEntitySet="TblTrasladoConsumibles">
+          <ScalarProperty Name="idTraslado" ColumnName="idTraslado" />
+          <ScalarProperty Name="codigo" ColumnName="codigo" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="marca" ColumnName="marca" />
+          <ScalarProperty Name="modelo" ColumnName="modelo" />
+          <ScalarProperty Name="serie" ColumnName="serie" />
+          <ScalarProperty Name="cantidad" ColumnName="cantidad" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TblUbicacion">
+      <EntityTypeMapping TypeName="zensoftModel.TblUbicacion">
+        <MappingFragment StoreEntitySet="TblUbicacion">
+          <ScalarProperty Name="cedula" ColumnName="cedula" />
+          <ScalarProperty Name="provincia" ColumnName="provincia" />
+          <ScalarProperty Name="canton" ColumnName="canton" />
+          <ScalarProperty Name="distrito" ColumnName="distrito" />
+          <ScalarProperty Name="direccion" ColumnName="direccion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TblUnidadOrganizativa">
+      <EntityTypeMapping TypeName="zensoftModel.TblUnidadOrganizativa">
+        <MappingFragment StoreEntitySet="TblUnidadOrganizativa">
+          <ScalarProperty Name="codigo" ColumnName="codigo" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="telefono" ColumnName="telefono" />
+          <ScalarProperty Name="latitud" ColumnName="latitud" />
+          <ScalarProperty Name="logitud" ColumnName="logitud" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TblUsuario">
+      <EntityTypeMapping TypeName="zensoftModel.TblUsuario">
+        <MappingFragment StoreEntitySet="TblUsuario">
+          <ScalarProperty Name="nombreUsuario" ColumnName="nombreUsuario" />
+          <ScalarProperty Name="idGrupo" ColumnName="idGrupo" />
+          <ScalarProperty Name="correoElectronico" ColumnName="correoElectronico" />
+          <ScalarProperty Name="clave" ColumnName="clave" />
+          <ScalarProperty Name="bloqueo" ColumnName="bloqueo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TblMovimientoActivo">
+      <EntityTypeMapping TypeName="zensoftModel.TblMovimientoActivo">
+        <MappingFragment StoreEntitySet="TblMovimientoActivo">
+          <ScalarProperty Name="idMovimiento" ColumnName="idMovimiento" />
+          <ScalarProperty Name="patrimonio" ColumnName="patrimonio" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="SP_CNS_ACTIVO" FunctionName="zensoftModel.Store.SP_CNS_ACTIVO">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="zensoftModel.SP_CNS_ACTIVO_Result">
+          <ScalarProperty Name="Patrimonio" ColumnName="Patrimonio" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Marca" ColumnName="Marca" />
+          <ScalarProperty Name="Modelo" ColumnName="Modelo" />
+          <ScalarProperty Name="Serie" ColumnName="Serie" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SP_CNS_ACTIVOS" FunctionName="zensoftModel.Store.SP_CNS_ACTIVOS">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="zensoftModel.SP_CNS_ACTIVOS_Result">
+          <ScalarProperty Name="Patrimonio" ColumnName="Patrimonio" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Marca" ColumnName="Marca" />
+          <ScalarProperty Name="Modelo" ColumnName="Modelo" />
+          <ScalarProperty Name="Serie" ColumnName="Serie" />
+          <ScalarProperty Name="Estado" ColumnName="Estado" />
+          <ScalarProperty Name="Disponibilidad" ColumnName="Disponibilidad" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SP_CNS_ACTIVOSDISPONIBLES" FunctionName="zensoftModel.Store.SP_CNS_ACTIVOSDISPONIBLES">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="zensoftModel.SP_CNS_ACTIVOSDISPONIBLES_Result">
+          <ScalarProperty Name="Patrimonio" ColumnName="Patrimonio" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SP_CNS_ACTIVOSPRESTAMO" FunctionName="zensoftModel.Store.SP_CNS_ACTIVOSPRESTAMO">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="zensoftModel.SP_CNS_ACTIVOSPRESTAMO_Result">
+          <ScalarProperty Name="patrimonio" ColumnName="patrimonio" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="marca" ColumnName="marca" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SP_CNS_CODDISPONIBLES" FunctionName="zensoftModel.Store.SP_CNS_CODDISPONIBLES" />
+    <FunctionImportMapping FunctionImportName="SP_CNS_CONSUMIBLE_FECHAS2" FunctionName="zensoftModel.Store.SP_CNS_CONSUMIBLE_FECHAS2">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="zensoftModel.SP_CNS_CONSUMIBLE_FECHAS2_Result">
+          <ScalarProperty Name="Código" ColumnName="Código" />
+          <ScalarProperty Name="NombreC" ColumnName="NombreC" />
+          <ScalarProperty Name="Marca" ColumnName="Marca" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="NombreE" ColumnName="NombreE" />
+          <ScalarProperty Name="Cantidad" ColumnName="Cantidad" />
+          <ScalarProperty Name="Observacíón" ColumnName="Observacíón" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SP_CNS_CONSUMIBLES" FunctionName="zensoftModel.Store.SP_CNS_CONSUMIBLES">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="zensoftModel.SP_CNS_CONSUMIBLES_Result">
+          <ScalarProperty Name="Codigo" ColumnName="Codigo" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Marca" ColumnName="Marca" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="UnidadMedida" ColumnName="UnidadMedida" />
+          <ScalarProperty Name="Stock" ColumnName="Stock" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SP_CNS_CONSUMIBLES2" FunctionName="zensoftModel.Store.SP_CNS_CONSUMIBLES2">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="zensoftModel.SP_CNS_CONSUMIBLES2_Result">
+          <ScalarProperty Name="Codigo" ColumnName="Codigo" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Marca" ColumnName="Marca" />
+          <ScalarProperty Name="Modelo" ColumnName="Modelo" />
+          <ScalarProperty Name="Serie" ColumnName="Serie" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Stock" ColumnName="Stock" />
+          <ScalarProperty Name="Unidad" ColumnName="Unidad" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SP_CNS_CONSUMIBLESDISPONIBLES" FunctionName="zensoftModel.Store.SP_CNS_CONSUMIBLESDISPONIBLES">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="zensoftModel.SP_CNS_CONSUMIBLESDISPONIBLES_Result">
+          <ScalarProperty Name="Codigo" ColumnName="Codigo" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SP_CNS_CONSUMIBLESSOLICITUD" FunctionName="zensoftModel.Store.SP_CNS_CONSUMIBLESSOLICITUD">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="zensoftModel.SP_CNS_CONSUMIBLESSOLICITUD_Result">
+          <ScalarProperty Name="Codigo" ColumnName="Codigo" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Marca" ColumnName="Marca" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="UnidadMedida" ColumnName="UnidadMedida" />
+          <ScalarProperty Name="Cantidad" ColumnName="Cantidad" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SP_CNS_EMPLEADOS" FunctionName="zensoftModel.Store.SP_CNS_EMPLEADOS">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="zensoftModel.SP_CNS_EMPLEADOS_Result">
+          <ScalarProperty Name="Cedula" ColumnName="Cedula" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Telefono" ColumnName="Telefono" />
+          <ScalarProperty Name="Sede" ColumnName="Sede" />
+          <ScalarProperty Name="Departamento" ColumnName="Departamento" />
+          <ScalarProperty Name="Condicion" ColumnName="Condicion" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SP_CNS_PRESTAMOSxEMPLEADO" FunctionName="zensoftModel.Store.SP_CNS_PRESTAMOSxEMPLEADO">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="zensoftModel.SP_CNS_PRESTAMOSxEMPLEADO_Result">
+          <ScalarProperty Name="IDMovimiento" ColumnName="IDMovimiento" />
+          <ScalarProperty Name="Nombre_Empleado" ColumnName="Nombre_Empleado" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="Cantidad_Activos" ColumnName="Cantidad_Activos" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SP_CNS_Usuarios" FunctionName="zensoftModel.Store.SP_CNS_Usuarios">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="zensoftModel.SP_CNS_Usuarios_Result">
+          <ScalarProperty Name="CodigoGrupo" ColumnName="CodigoGrupo" />
+          <ScalarProperty Name="NombreUsuario" ColumnName="NombreUsuario" />
+          <ScalarProperty Name="Correo" ColumnName="Correo" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SP_INS_MOVACTIVO" FunctionName="zensoftModel.Store.SP_INS_MOVACTIVO" />
+    <FunctionImportMapping FunctionImportName="SP_INS_MOVCONSUMIBLE" FunctionName="zensoftModel.Store.SP_INS_MOVCONSUMIBLE" />
+    <FunctionImportMapping FunctionImportName="SP_UO_List" FunctionName="zensoftModel.Store.SP_UO_List">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="zensoftModel.SP_UO_List_Result">
+          <ScalarProperty Name="Codigo" ColumnName="Codigo" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Telefono" ColumnName="Telefono" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

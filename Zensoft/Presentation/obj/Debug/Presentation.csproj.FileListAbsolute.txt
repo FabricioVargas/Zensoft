@@ -1,0 +1,497 @@
+C:\Users\Josué\source\repos\Presentation\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Josué\source\repos\Presentation\Presentation\bin\Debug\Presentation.exe
+C:\Users\Josué\source\repos\Presentation\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Josué\source\repos\Presentation\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\Josué\source\repos\Presentation\Presentation\obj\Debug\Presentation.Frm.resources
+C:\Users\Josué\source\repos\Presentation\Presentation\obj\Debug\Presentation.Frm_E.resources
+C:\Users\Josué\source\repos\Presentation\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\Josué\source\repos\Presentation\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\Josué\source\repos\Presentation\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Josué\source\repos\Presentation\Presentation\obj\Debug\Presentation.exe
+C:\Users\Josué\source\repos\Presentation\Presentation\obj\Debug\Presentation.pdb
+C:\Users\Josué\source\repos\Presentation\Presentation\obj\Debug\Presentation.Frm_U.resources
+C:\Users\Josué\source\repos\Presentation\Presentation\obj\Debug\Presentation.Frm_S.resources
+C:\Users\Josué\source\repos\Presentation\Presentation\obj\Debug\Presentation.Frm_UO.resources
+C:\Users\Josué\source\repos\Presentation\Presentation\obj\Debug\Presentation.Frm_GPA.resources
+C:\Users\Josué\source\repos\Presentation\Presentation\obj\Debug\Presentation.Frm_GEC.resources
+C:\Users\Josué\source\repos\Presentation\Presentation\obj\Debug\Presentation.Frm_E_Consulta1.resources
+C:\Users\Josué\source\repos\Presentation\Presentation\obj\Debug\Presentation.Frm_E_Consulta2.resources
+C:\Users\Josué\source\repos\Presentation\Presentation\obj\Debug\Presentation.Frm_AC_ConsultarActivo.resources
+C:\Users\Josué\source\repos\Presentation\Presentation\obj\Debug\Presentation.Frm_AC_ConsultarConsumible.resources
+C:\Users\Josué\source\repos\Presentation\Presentation\obj\Debug\Presentation.Frm_AC_Consultar.resources
+C:\Users\Josué\source\repos\Presentation\Presentation\obj\Debug\Presentation.Frn_U_Consultar1.resources
+C:\Users\Josué\source\repos\Presentation\Presentation\obj\Debug\Presentation.Frm_U_Consultar2.resources
+C:\Users\Josué\source\repos\Presentation\Presentation\obj\Debug\Presentation.Frm_U_Modificar.resources
+C:\Users\Josué\source\repos\Presentation\Presentation\obj\Debug\Presentation.Frm_U_Verificación.resources
+C:\Users\Josué\source\repos\Presentation\Presentation\obj\Debug\Presentation.Frm_UO_Consultar.resources
+C:\Users\Josué\source\repos\Presentation\Presentation\obj\Debug\Presentation.Frm_UO_Consultar2.resources
+C:\Users\Josué\source\repos\Presentation\Presentation\obj\Debug\Presentation.Frm_S_Bitacora.resources
+C:\Users\Josué\source\repos\Presentation\Presentation\obj\Debug\Presentation.Frm_GPA_Lista.resources
+C:\Users\Josué\source\repos\Presentation\Presentation\obj\Debug\Presentation.Frm_GPA_Realizar.resources
+C:\Users\Josué\source\repos\Presentation\Presentation\obj\Debug\Presentation.Frm_GPA_Lista2.resources
+C:\Users\Josué\source\repos\Presentation\Presentation\obj\Debug\Presentation.Frm_GDA_Realizar.resources
+C:\Users\Josué\source\repos\Presentation\Presentation\obj\Debug\Presentation.Frm_GDA_Consulta.resources
+C:\Users\Josué\source\repos\Presentation\Presentation\obj\Debug\Presentation.Frm_GDA_Lista1.resources
+C:\Users\Josué\source\repos\Presentation\Presentation\obj\Debug\Presentation.Frm_GDA_Lista2.resources
+C:\Users\Josué\source\repos\Presentation\Presentation\obj\Debug\Presentation.Frm_GEC_Realizar.resources
+C:\Users\Josué\source\repos\Presentation\Presentation\obj\Debug\Presentation.Frm_GEC_Lista1.resources
+C:\Users\Josué\source\repos\Presentation\Presentation\obj\Debug\Presentation.Frm_GEC_Lista2.resources
+C:\Users\Josué\source\repos\Presentation\Presentation\obj\Debug\Presentation.Frm_TACU.resources
+C:\Users\Josué\source\repos\Presentation\Presentation\obj\Debug\Presentation.Frm_TACU_Consulta.resources
+C:\Users\Josué\source\repos\Presentation\Presentation\obj\Debug\Presentation.Frm_TACU_Lista.resources
+C:\Users\Geovanni Fernández E\Documents\UCR\VI Semestre\Anánlisis\Proyecto\Presentation\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Geovanni Fernández E\Documents\UCR\VI Semestre\Anánlisis\Proyecto\Presentation\Presentation\bin\Debug\Presentation.exe
+C:\Users\Geovanni Fernández E\Documents\UCR\VI Semestre\Anánlisis\Proyecto\Presentation\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Geovanni Fernández E\Documents\UCR\VI Semestre\Anánlisis\Proyecto\Presentation\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\Geovanni Fernández E\Documents\UCR\VI Semestre\Anánlisis\Proyecto\Presentation\Presentation\obj\Debug\Presentation.Frm_E.resources
+C:\Users\Geovanni Fernández E\Documents\UCR\VI Semestre\Anánlisis\Proyecto\Presentation\Presentation\obj\Debug\Presentation.Frm_E_Consulta2.resources
+C:\Users\Geovanni Fernández E\Documents\UCR\VI Semestre\Anánlisis\Proyecto\Presentation\Presentation\obj\Debug\Presentation.Frm_GDA_Lista2.resources
+C:\Users\Geovanni Fernández E\Documents\UCR\VI Semestre\Anánlisis\Proyecto\Presentation\Presentation\obj\Debug\Presentation.Frm_GDA_Realizar.resources
+C:\Users\Geovanni Fernández E\Documents\UCR\VI Semestre\Anánlisis\Proyecto\Presentation\Presentation\obj\Debug\Presentation.Frm_GEC_Lista2.resources
+C:\Users\Geovanni Fernández E\Documents\UCR\VI Semestre\Anánlisis\Proyecto\Presentation\Presentation\obj\Debug\Presentation.Frm_GEC_Realizar.resources
+C:\Users\Geovanni Fernández E\Documents\UCR\VI Semestre\Anánlisis\Proyecto\Presentation\Presentation\obj\Debug\Presentation.Frm_GPA_Lista2.resources
+C:\Users\Geovanni Fernández E\Documents\UCR\VI Semestre\Anánlisis\Proyecto\Presentation\Presentation\obj\Debug\Presentation.Frm_GPA_Realizar.resources
+C:\Users\Geovanni Fernández E\Documents\UCR\VI Semestre\Anánlisis\Proyecto\Presentation\Presentation\obj\Debug\Presentation.Frm_S_Bitacora.resources
+C:\Users\Geovanni Fernández E\Documents\UCR\VI Semestre\Anánlisis\Proyecto\Presentation\Presentation\obj\Debug\Presentation.Frm_S.resources
+C:\Users\Geovanni Fernández E\Documents\UCR\VI Semestre\Anánlisis\Proyecto\Presentation\Presentation\obj\Debug\Presentation.Frm_TACU_Lista.resources
+C:\Users\Geovanni Fernández E\Documents\UCR\VI Semestre\Anánlisis\Proyecto\Presentation\Presentation\obj\Debug\Presentation.Frm_TACU.resources
+C:\Users\Geovanni Fernández E\Documents\UCR\VI Semestre\Anánlisis\Proyecto\Presentation\Presentation\obj\Debug\Presentation.Frm_U.resources
+C:\Users\Geovanni Fernández E\Documents\UCR\VI Semestre\Anánlisis\Proyecto\Presentation\Presentation\obj\Debug\Presentation.Frm_U_Consultar2.resources
+C:\Users\Geovanni Fernández E\Documents\UCR\VI Semestre\Anánlisis\Proyecto\Presentation\Presentation\obj\Debug\Presentation.Frm_U_Modificar.resources
+C:\Users\Geovanni Fernández E\Documents\UCR\VI Semestre\Anánlisis\Proyecto\Presentation\Presentation\obj\Debug\Presentation.Frm_U_Verificación.resources
+C:\Users\Geovanni Fernández E\Documents\UCR\VI Semestre\Anánlisis\Proyecto\Presentation\Presentation\obj\Debug\Presentation.Frm_UO.resources
+C:\Users\Geovanni Fernández E\Documents\UCR\VI Semestre\Anánlisis\Proyecto\Presentation\Presentation\obj\Debug\Presentation.Frm_UO_Consultar2.resources
+C:\Users\Geovanni Fernández E\Documents\UCR\VI Semestre\Anánlisis\Proyecto\Presentation\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\Geovanni Fernández E\Documents\UCR\VI Semestre\Anánlisis\Proyecto\Presentation\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\Geovanni Fernández E\Documents\UCR\VI Semestre\Anánlisis\Proyecto\Presentation\Presentation\obj\Debug\Presentation.exe
+C:\Users\Geovanni Fernández E\Documents\UCR\VI Semestre\Anánlisis\Proyecto\Presentation\Presentation\obj\Debug\Presentation.pdb
+C:\Users\Geovanni Fernández E\Documents\UCR\VI Semestre\Anánlisis\Proyecto\Presentation\Presentation\obj\Debug\Presentation.FRM_A_Agregar.resources
+C:\Users\Geovanni Fernández E\Documents\UCR\VI Semestre\Anánlisis\Proyecto\Presentation\Presentation\obj\Debug\Presentation.Frm_C_Agregar.resources
+C:\Users\Geovanni Fernández E\Documents\UCR\VI Semestre\Anánlisis\Proyecto\Presentation\Presentation\obj\Debug\Presentation.Frm_C_Lista.resources
+C:\Users\Geovanni Fernández E\Documents\UCR\VI Semestre\Anánlisis\Proyecto\Presentation\Presentation\obj\Debug\Presentation.Frm_A_Lista.resources
+C:\Users\Geovanni Fernández E\Documents\UCR\VI Semestre\Anánlisis\Proyecto\Presentation\Presentation\obj\Debug\Presentation.Form1.resources
+C:\Users\Geovanni Fernández E\Desktop\Zensoft\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Geovanni Fernández E\Desktop\Zensoft\Presentation\bin\Debug\Presentation.exe
+C:\Users\Geovanni Fernández E\Desktop\Zensoft\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Geovanni Fernández E\Desktop\Zensoft\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\Geovanni Fernández E\Desktop\Zensoft\Presentation\obj\Debug\Presentation.FRM_A_Agregar.resources
+C:\Users\Geovanni Fernández E\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_A_Lista.resources
+C:\Users\Geovanni Fernández E\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_C_Lista.resources
+C:\Users\Geovanni Fernández E\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_E_Consulta2.resources
+C:\Users\Geovanni Fernández E\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_GDA_Lista2.resources
+C:\Users\Geovanni Fernández E\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_GDA_Realizar.resources
+C:\Users\Geovanni Fernández E\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_GEC_Lista2.resources
+C:\Users\Geovanni Fernández E\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_GEC_Realizar.resources
+C:\Users\Geovanni Fernández E\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_GPA_Lista2.resources
+C:\Users\Geovanni Fernández E\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_GPA_Realizar.resources
+C:\Users\Geovanni Fernández E\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_S_Bitacora.resources
+C:\Users\Geovanni Fernández E\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_S.resources
+C:\Users\Geovanni Fernández E\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_TACU_Lista.resources
+C:\Users\Geovanni Fernández E\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_U_Consultar2.resources
+C:\Users\Geovanni Fernández E\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_U_Modificar.resources
+C:\Users\Geovanni Fernández E\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_U_Verificación.resources
+C:\Users\Geovanni Fernández E\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_UO_Consultar2.resources
+C:\Users\Geovanni Fernández E\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\Geovanni Fernández E\Desktop\Zensoft\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\Geovanni Fernández E\Desktop\Zensoft\Presentation\obj\Debug\Presentation.exe
+C:\Users\Geovanni Fernández E\Desktop\Zensoft\Presentation\obj\Debug\Presentation.pdb
+C:\Users\Geovanni Fernández E\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_E_Agregar.resources
+C:\Users\Geovanni Fernández E\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_C_Agregar.resources
+C:\Users\Geovanni Fernández E\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_U_Agregar.resources
+C:\Users\Geovanni Fernández E\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_UO_Agregar.resources
+C:\Users\Geovanni Fernández E\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_MenuPrincipal.resources
+C:\Users\Geovanni Fernández E\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_TACU_Agregar.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Debug\Presentation.Frm_A_Agregar.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Debug\Presentation.Frm_A_Lista.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Debug\Presentation.Frm_C_Agregar.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Debug\Presentation.Frm_C_Lista.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Debug\Presentation.Frm_E_Agregar.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Debug\Presentation.Frm_E_Consulta2.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Debug\Presentation.Frm_GDA_Lista2.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Debug\Presentation.Frm_GDA_Realizar.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Debug\Presentation.Frm_GEC_Lista2.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Debug\Presentation.Frm_GEC_Realizar.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Debug\Presentation.Frm_GPA_Lista2.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Debug\Presentation.Frm_GPA_Realizar.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Debug\Presentation.Frm_MenuPrincipal.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Debug\Presentation.Frm_S_Bitacora.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Debug\Presentation.Frm_S.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Debug\Presentation.Frm_TACU_Lista.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Debug\Presentation.Frm_TACU_Agregar.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Debug\Presentation.Frm_U_Agregar.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Debug\Presentation.Frm_U_Consultar2.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Debug\Presentation.Frm_U_Modificar.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Debug\Presentation.Frm_U_Verificación.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Debug\Presentation.Frm_UO_Agregar.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Debug\Presentation.Frm_UO_Consultar2.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\bin\Debug\Presentation.exe
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\bin\Debug\Entidades.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\bin\Debug\EntityFramework.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\bin\Debug\LogicaNegocio.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\bin\Debug\AccesoDatos.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\bin\Debug\LogicaNegocio.pdb
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\bin\Debug\Entidades.pdb
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\bin\Debug\Entidades.dll.config
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\bin\Debug\EntityFramework.xml
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\bin\Debug\AccesoDatos.pdb
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Debug\Presentation.exe
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\Presentation\obj\Debug\Presentation.pdb
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_A_Agregar.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_A_Lista.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_C_Agregar.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_C_Lista.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_E_Agregar.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_E_Consulta2.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_GDA_Lista2.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_GDA_Realizar.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_GEC_Lista2.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_GEC_Realizar.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_GPA_Lista2.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_GPA_Realizar.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_MenuPrincipal.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_S_Bitacora.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_S.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_TACU_Lista.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_TACU_Agregar.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_U_Agregar.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_U_Consultar2.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_U_Modificar.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_U_Verificación.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_UO_Agregar.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Frm_UO_Consultar2.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\bin\Debug\Presentation.exe
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\bin\Debug\Presentation.pdb
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\bin\Debug\Entidades.dll
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\bin\Debug\EntityFramework.dll
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\bin\Debug\LogicaNegocio.dll
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\bin\Debug\AccesoDatos.dll
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\bin\Debug\Entidades.pdb
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\bin\Debug\Entidades.dll.config
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\bin\Debug\EntityFramework.xml
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\bin\Debug\LogicaNegocio.pdb
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\bin\Debug\AccesoDatos.pdb
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Debug\Presentation.exe
+C:\Users\José Rodolfo\Desktop\Zensoft\Presentation\obj\Debug\Presentation.pdb
+C:\Users\Admin\Desktop\Zensoft\Zensoft\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Admin\Desktop\Zensoft\Zensoft\Presentation\bin\Debug\Presentation.exe
+C:\Users\Admin\Desktop\Zensoft\Zensoft\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Admin\Desktop\Zensoft\Zensoft\Presentation\bin\Debug\Entidades.dll
+C:\Users\Admin\Desktop\Zensoft\Zensoft\Presentation\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Zensoft\Zensoft\Presentation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Zensoft\Zensoft\Presentation\bin\Debug\LogicaNegocio.dll
+C:\Users\Admin\Desktop\Zensoft\Zensoft\Presentation\bin\Debug\AccesoDatos.dll
+C:\Users\Admin\Desktop\Zensoft\Zensoft\Presentation\bin\Debug\Entidades.pdb
+C:\Users\Admin\Desktop\Zensoft\Zensoft\Presentation\bin\Debug\Entidades.dll.config
+C:\Users\Admin\Desktop\Zensoft\Zensoft\Presentation\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Zensoft\Zensoft\Presentation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Zensoft\Zensoft\Presentation\bin\Debug\LogicaNegocio.pdb
+C:\Users\Admin\Desktop\Zensoft\Zensoft\Presentation\bin\Debug\AccesoDatos.pdb
+C:\Users\Admin\Desktop\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Zensoft\Zensoft\Presentation\obj\Debug\Zensoft.FrmDevolucionActivos.resources
+C:\Users\Admin\Desktop\Zensoft\Zensoft\Presentation\obj\Debug\Zensoft.FrmEmpleados.resources
+C:\Users\Admin\Desktop\Zensoft\Zensoft\Presentation\obj\Debug\Zensoft.FRMIMEmpleado.resources
+C:\Users\Admin\Desktop\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.FrmPrestamoActivo.resources
+C:\Users\Admin\Desktop\Zensoft\Zensoft\Presentation\obj\Debug\Zensoft.FrmPrestamosEmpleado.resources
+C:\Users\Admin\Desktop\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.FrmSolicitudActivos.resources
+C:\Users\Admin\Desktop\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_A_Agregar.resources
+C:\Users\Admin\Desktop\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_A_Lista.resources
+C:\Users\Admin\Desktop\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_C_Agregar.resources
+C:\Users\Admin\Desktop\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_C_Lista.resources
+C:\Users\Admin\Desktop\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_GEC_Lista.resources
+C:\Users\Admin\Desktop\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_GEC_Realizar.resources
+C:\Users\Admin\Desktop\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_GEC_Solicitud.resources
+C:\Users\Admin\Desktop\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_MenuPrincipal.resources
+C:\Users\Admin\Desktop\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_S.resources
+C:\Users\Admin\Desktop\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.Usuario.resources
+C:\Users\Admin\Desktop\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_U_Consultar2.resources
+C:\Users\Admin\Desktop\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_U_Modificar.resources
+C:\Users\Admin\Desktop\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_U_Verificación.resources
+C:\Users\Admin\Desktop\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\Admin\Desktop\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\Admin\Desktop\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.exe
+C:\Users\Admin\Desktop\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.pdb
+D:\escri\Final este sí\Zensoft\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+D:\escri\Final este sí\Zensoft\Presentation\bin\Debug\Presentation.exe.config
+D:\escri\Final este sí\Zensoft\Presentation\bin\Debug\Presentation.exe
+D:\escri\Final este sí\Zensoft\Presentation\bin\Debug\Presentation.pdb
+D:\escri\Final este sí\Zensoft\Presentation\bin\Debug\Entidades.dll
+D:\escri\Final este sí\Zensoft\Presentation\bin\Debug\EntityFramework.dll
+D:\escri\Final este sí\Zensoft\Presentation\bin\Debug\EntityFramework.SqlServer.dll
+D:\escri\Final este sí\Zensoft\Presentation\bin\Debug\GMap.NET.Core.dll
+D:\escri\Final este sí\Zensoft\Presentation\bin\Debug\GMap.NET.WindowsForms.dll
+D:\escri\Final este sí\Zensoft\Presentation\bin\Debug\LogicaNegocio.dll
+D:\escri\Final este sí\Zensoft\Presentation\bin\Debug\AccesoDatos.dll
+D:\escri\Final este sí\Zensoft\Presentation\bin\Debug\Entidades.pdb
+D:\escri\Final este sí\Zensoft\Presentation\bin\Debug\Entidades.dll.config
+D:\escri\Final este sí\Zensoft\Presentation\bin\Debug\EntityFramework.xml
+D:\escri\Final este sí\Zensoft\Presentation\bin\Debug\EntityFramework.SqlServer.xml
+D:\escri\Final este sí\Zensoft\Presentation\bin\Debug\LogicaNegocio.pdb
+D:\escri\Final este sí\Zensoft\Presentation\bin\Debug\AccesoDatos.pdb
+D:\escri\Final este sí\Zensoft\Presentation\obj\Debug\Zensoft.FrmDevolucionActivos.resources
+D:\escri\Final este sí\Zensoft\Presentation\obj\Debug\Zensoft.FrmEmpleados.resources
+D:\escri\Final este sí\Zensoft\Presentation\obj\Debug\Zensoft.FRMIMEmpleado.resources
+D:\escri\Final este sí\Zensoft\Presentation\obj\Debug\Presentation.FrmPrestamoActivo.resources
+D:\escri\Final este sí\Zensoft\Presentation\obj\Debug\Zensoft.FrmPrestamosEmpleado.resources
+D:\escri\Final este sí\Zensoft\Presentation\obj\Debug\Presentation.FrmSolicitudActivos.resources
+D:\escri\Final este sí\Zensoft\Presentation\obj\Debug\Presentation.Frm_A_Agregar.resources
+D:\escri\Final este sí\Zensoft\Presentation\obj\Debug\Presentation.Frm_A_Lista.resources
+D:\escri\Final este sí\Zensoft\Presentation\obj\Debug\Presentation.Frm_C_Agregar.resources
+D:\escri\Final este sí\Zensoft\Presentation\obj\Debug\Presentation.Frm_C_Lista.resources
+D:\escri\Final este sí\Zensoft\Presentation\obj\Debug\Presentation.Frm_GEC_Lista.resources
+D:\escri\Final este sí\Zensoft\Presentation\obj\Debug\Presentation.Frm_GEC_Realizar.resources
+D:\escri\Final este sí\Zensoft\Presentation\obj\Debug\Presentation.Frm_GEC_Solicitud.resources
+D:\escri\Final este sí\Zensoft\Presentation\obj\Debug\Presentation.Frm_MenuPrincipal.resources
+D:\escri\Final este sí\Zensoft\Presentation\obj\Debug\Presentation.Frm_S.resources
+D:\escri\Final este sí\Zensoft\Presentation\obj\Debug\Presentation.Frm_UO_Agregar.resources
+D:\escri\Final este sí\Zensoft\Presentation\obj\Debug\Presentation.Frm_UO_Consultar2.resources
+D:\escri\Final este sí\Zensoft\Presentation\obj\Debug\Presentation.Usuario.resources
+D:\escri\Final este sí\Zensoft\Presentation\obj\Debug\Presentation.Frm_U_Consultar2.resources
+D:\escri\Final este sí\Zensoft\Presentation\obj\Debug\Presentation.Frm_U_Modificar.resources
+D:\escri\Final este sí\Zensoft\Presentation\obj\Debug\Presentation.Frm_U_Verificación.resources
+D:\escri\Final este sí\Zensoft\Presentation\obj\Debug\Presentation.MapasGoogle.resources
+D:\escri\Final este sí\Zensoft\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+D:\escri\Final este sí\Zensoft\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+D:\escri\Final este sí\Zensoft\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+D:\escri\Final este sí\Zensoft\Presentation\obj\Debug\Presentation.exe
+D:\escri\Final este sí\Zensoft\Presentation\obj\Debug\Presentation.pdb
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\bin\Debug\Presentation.exe.config
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\bin\Debug\Presentation.exe
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\bin\Debug\Presentation.pdb
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\bin\Debug\Entidades.dll
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\bin\Debug\EntityFramework.dll
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\bin\Debug\EntityFramework.SqlServer.dll
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\bin\Debug\GMap.NET.Core.dll
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\bin\Debug\GMap.NET.WindowsForms.dll
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\bin\Debug\LogicaNegocio.dll
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\bin\Debug\AccesoDatos.dll
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\bin\Debug\Entidades.pdb
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\bin\Debug\Entidades.dll.config
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\bin\Debug\EntityFramework.xml
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\bin\Debug\EntityFramework.SqlServer.xml
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\bin\Debug\LogicaNegocio.pdb
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\bin\Debug\AccesoDatos.pdb
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\obj\Debug\Zensoft.FrmDevolucionActivos.resources
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\obj\Debug\Zensoft.FrmEmpleados.resources
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\obj\Debug\Zensoft.FRMIMEmpleado.resources
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.FrmPrestamoActivo.resources
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\obj\Debug\Zensoft.FrmPrestamosEmpleado.resources
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.FrmSolicitudActivos.resources
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_A_Agregar.resources
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_A_Lista.resources
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_C_Agregar.resources
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_C_Lista.resources
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_GEC_Lista.resources
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_GEC_Realizar.resources
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_GEC_Solicitud.resources
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_MenuPrincipal.resources
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_S.resources
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_UO_Agregar.resources
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_UO_Consultar2.resources
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.Usuario.resources
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_U_Consultar2.resources
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_U_Modificar.resources
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_U_Verificación.resources
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.MapasGoogle.resources
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.exe
+D:\escri\Josué\UCR\6. Sexto Semestre\Análisis y diseño de sistemas\Proyecto\Zensoft\Zensoft\Presentation\obj\Debug\Presentation.pdb
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\bin\Debug\Presentation.exe
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\bin\Debug\GMap.NET.Core.dll
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\bin\Debug\LogicaNegocio.dll
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\bin\Debug\AccesoDatos.dll
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\bin\Debug\Entidades.pdb
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\bin\Debug\Entidades.dll.config
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\bin\Debug\EntityFramework.xml
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\bin\Debug\LogicaNegocio.pdb
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\bin\Debug\AccesoDatos.pdb
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\obj\Debug\Zensoft.FrmDevolucionActivos.resources
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\obj\Debug\Zensoft.FrmEmpleados.resources
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\obj\Debug\Zensoft.FRMIMEmpleado.resources
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.FrmPrestamoActivo.resources
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\obj\Debug\Zensoft.FrmPrestamosEmpleado.resources
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.FrmSolicitudActivos.resources
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_A_Agregar.resources
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_A_Lista.resources
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_C_Agregar.resources
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_C_Lista.resources
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_GEC_Lista.resources
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_GEC_Realizar.resources
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_GEC_Solicitud.resources
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_MenuPrincipal.resources
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_S.resources
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_UO_Agregar.resources
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_UO_Consultar2.resources
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.Usuario.resources
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_U_Consultar2.resources
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_U_Modificar.resources
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_U_Verificación.resources
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.MapasGoogle.resources
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.exe
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.pdb
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_TACU_Agregar.resources
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_TACU_Lista.resources
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\bin\Debug\Entidades.dll
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\bin\Debug\EntityFramework.dll
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\Presentation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\Presentation.exe
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\Entidades.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\EntityFramework.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\GMap.NET.Core.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\LogicaNegocio.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\AccesoDatos.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\Entidades.pdb
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\Entidades.dll.config
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\EntityFramework.xml
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\LogicaNegocio.pdb
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\AccesoDatos.pdb
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\obj\Debug\Zensoft.FrmDevolucionActivos.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\obj\Debug\Zensoft.FrmEmpleados.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\obj\Debug\Zensoft.FRMIMEmpleado.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.FrmPrestamoActivo.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\obj\Debug\Zensoft.FrmPrestamosEmpleado.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.FrmSolicitudActivos.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_A_Agregar.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_A_Lista.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_C_Agregar.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_C_Lista.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_GEC_Lista.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_GEC_Realizar.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_GEC_Solicitud.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_MenuPrincipal.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_S.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_TACU_Agregar.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_TACU_Lista.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_UO_Agregar.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_UO_Consultar2.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.Usuario.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_U_Consultar2.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_U_Modificar.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_U_Verificación.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.MapasGoogle.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.exe
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.pdb
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\EnvDTE.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\stdole.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\EnvDTE80.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\VSLangProj.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\VSLangProj80.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\VSLangProj2.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.exe.config
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_Reporte_GEC.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\obj\Debug\RdlCompile.cache
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\obj\Debug\RdlCompile.compiled
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_Reporte_TACU_Activo.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Presentation\obj\Debug\Presentation.Frm_Reporte_TACU_Consumibles.resources

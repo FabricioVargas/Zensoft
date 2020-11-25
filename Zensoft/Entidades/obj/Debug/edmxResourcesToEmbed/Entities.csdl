@@ -1,0 +1,707 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="zensoftModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="TblActivos">
+    <Key>
+      <PropertyRef Name="patrimonio" />
+    </Key>
+    <Property Name="patrimonio" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="marca" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="modelo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="serie" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="descripcion" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="estado" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="disponibilidad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="TblActivoSolicitado" Relationship="Self.FK__TblActivo__patri__5AEE82B9" FromRole="TblActivos" ToRole="TblActivoSolicitado" />
+    <NavigationProperty Name="TblMovimientoActivo" Relationship="Self.FK__TblMovimi__patri__6754599E" FromRole="TblActivos" ToRole="TblMovimientoActivo" />
+    <NavigationProperty Name="TblTrasladoActivo" Relationship="Self.FK__TblTrasla__patri__619B8048" FromRole="TblActivos" ToRole="TblTrasladoActivo" />
+  </EntityType>
+  <EntityType Name="TblActivoSolicitado">
+    <Key>
+      <PropertyRef Name="patrimonio" />
+    </Key>
+    <Property Name="patrimonio" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="fecha" Type="DateTime" Nullable="false" Precision="7" />
+    <NavigationProperty Name="TblActivos" Relationship="Self.FK__TblActivo__patri__5AEE82B9" FromRole="TblActivoSolicitado" ToRole="TblActivos" />
+  </EntityType>
+  <EntityType Name="TblConsumibles">
+    <Key>
+      <PropertyRef Name="codigo" />
+    </Key>
+    <Property Name="codigo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="marca" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="modelo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="numeroSerie" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="descripción" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="unidadMedida" Type="String" MaxLength="4" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="stock" Type="Int32" />
+    <NavigationProperty Name="TblMovimientoConsumibles" Relationship="Self.FK__TblMovimi__codig__693CA210" FromRole="TblConsumibles" ToRole="TblMovimientoConsumibles" />
+    <NavigationProperty Name="TblTrasladoConsumibles" Relationship="Self.FK__TblTrasla__codig__6383C8BA" FromRole="TblConsumibles" ToRole="TblTrasladoConsumibles" />
+  </EntityType>
+  <EntityType Name="TblConsumibleSolicitado">
+    <Key>
+      <PropertyRef Name="codigo" />
+    </Key>
+    <Property Name="codigo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="cantidad" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TblDepartamento">
+    <Key>
+      <PropertyRef Name="idDepartamento" />
+    </Key>
+    <Property Name="idDepartamento" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="TblEmpleado" Relationship="Self.FK__TblEmplea__idDep__5CD6CB2B" FromRole="TblDepartamento" ToRole="TblEmpleado" />
+  </EntityType>
+  <EntityType Name="TblDependenciaOrganizativa">
+    <Key>
+      <PropertyRef Name="unidadCabecilla" />
+      <PropertyRef Name="unidadDependiente" />
+    </Key>
+    <Property Name="unidadCabecilla" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="unidadDependiente" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="codigo" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
+    <NavigationProperty Name="TblUnidadOrganizativa" Relationship="Self.FK__TblDepend__unida__6A30C649" FromRole="TblDependenciaOrganizativa" ToRole="TblUnidadOrganizativa" />
+    <NavigationProperty Name="TblUnidadOrganizativa1" Relationship="Self.FK__TblDepend__unida__6B24EA82" FromRole="TblDependenciaOrganizativa" ToRole="TblUnidadOrganizativa" />
+  </EntityType>
+  <EntityType Name="TblEmpleado">
+    <Key>
+      <PropertyRef Name="cedula" />
+    </Key>
+    <Property Name="cedula" Type="String" MaxLength="25" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="telefono" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="correo" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="condicion" Type="String" MaxLength="1" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="estado" Type="String" MaxLength="1" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="codigoSede" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="idDepartamento" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="TblDepartamento" Relationship="Self.FK__TblEmplea__idDep__5CD6CB2B" FromRole="TblEmpleado" ToRole="TblDepartamento" />
+    <NavigationProperty Name="TblUnidadOrganizativa" Relationship="Self.FK__TblEmplea__codig__5DCAEF64" FromRole="TblEmpleado" ToRole="TblUnidadOrganizativa" />
+    <NavigationProperty Name="TblMovimiento" Relationship="Self.FK__TblMovimi__cedEm__656C112C" FromRole="TblEmpleado" ToRole="TblMovimiento" />
+    <NavigationProperty Name="TblPlaza" Relationship="Self.FK__TblPlaza__cedula__5BE2A6F2" FromRole="TblEmpleado" ToRole="TblPlaza" />
+    <NavigationProperty Name="TblUbicacion" Relationship="Self.FK__TblUbicac__cedul__5EBF139D" FromRole="TblEmpleado" ToRole="TblUbicacion" />
+  </EntityType>
+  <EntityType Name="TblGrupo">
+    <Key>
+      <PropertyRef Name="idGrupo" />
+    </Key>
+    <Property Name="idGrupo" Type="String" MaxLength="4" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="TblUsuario" Relationship="Self.FK__TblUsuari__idGru__5FB337D6" FromRole="TblGrupo" ToRole="TblUsuario" />
+  </EntityType>
+  <EntityType Name="TblMovimiento">
+    <Key>
+      <PropertyRef Name="idMovimiento" />
+    </Key>
+    <Property Name="idMovimiento" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombreUsuario" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="cedEmpleado" Type="String" MaxLength="25" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="observacion" Type="String" MaxLength="200" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="fecha" Type="DateTime" Nullable="false" Precision="7" />
+    <Property Name="accion" Type="String" MaxLength="1" FixedLength="true" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="TblEmpleado" Relationship="Self.FK__TblMovimi__cedEm__656C112C" FromRole="TblMovimiento" ToRole="TblEmpleado" />
+    <NavigationProperty Name="TblMovimientoActivo" Relationship="Self.FK__TblMovimi__idMov__66603565" FromRole="TblMovimiento" ToRole="TblMovimientoActivo" />
+    <NavigationProperty Name="TblMovimientoConsumibles" Relationship="Self.FK__TblMovimi__idMov__68487DD7" FromRole="TblMovimiento" ToRole="TblMovimientoConsumibles" />
+    <NavigationProperty Name="TblUsuario" Relationship="Self.FK__TblMovimi__nombr__6477ECF3" FromRole="TblMovimiento" ToRole="TblUsuario" />
+  </EntityType>
+  <EntityType Name="TblMovimientoConsumibles">
+    <Key>
+      <PropertyRef Name="idMovimiento" />
+      <PropertyRef Name="codigo" />
+    </Key>
+    <Property Name="idMovimiento" Type="Int32" Nullable="false" />
+    <Property Name="codigo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="cantidad" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="TblConsumibles" Relationship="Self.FK__TblMovimi__codig__693CA210" FromRole="TblMovimientoConsumibles" ToRole="TblConsumibles" />
+    <NavigationProperty Name="TblMovimiento" Relationship="Self.FK__TblMovimi__idMov__68487DD7" FromRole="TblMovimientoConsumibles" ToRole="TblMovimiento" />
+  </EntityType>
+  <EntityType Name="TblPlaza">
+    <Key>
+      <PropertyRef Name="cedula" />
+    </Key>
+    <Property Name="cedula" Type="String" MaxLength="25" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="numPlaza" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="TblEmpleado" Relationship="Self.FK__TblPlaza__cedula__5BE2A6F2" FromRole="TblPlaza" ToRole="TblEmpleado" />
+  </EntityType>
+  <EntityType Name="TblTraslado">
+    <Key>
+      <PropertyRef Name="idTraslado" />
+    </Key>
+    <Property Name="idTraslado" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombreUsuario" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="unidadSalida" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="unidadDestino" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="fecha" Type="DateTime" Nullable="false" Precision="7" />
+    <NavigationProperty Name="TblTrasladoActivo" Relationship="Self.FK__TblTrasla__idTra__60A75C0F" FromRole="TblTraslado" ToRole="TblTrasladoActivo" />
+    <NavigationProperty Name="TblTrasladoConsumibles" Relationship="Self.FK__TblTrasla__idTra__628FA481" FromRole="TblTraslado" ToRole="TblTrasladoConsumibles" />
+    <NavigationProperty Name="TblUsuario" Relationship="Self.FK__TblTrasla__nombr__440B1D61" FromRole="TblTraslado" ToRole="TblUsuario" />
+    <NavigationProperty Name="TblUnidadOrganizativa" Relationship="Self.FK__TblTrasla__unida__6C190EBB" FromRole="TblTraslado" ToRole="TblUnidadOrganizativa" />
+    <NavigationProperty Name="TblUnidadOrganizativa1" Relationship="Self.FK__TblTrasla__unida__6D0D32F4" FromRole="TblTraslado" ToRole="TblUnidadOrganizativa" />
+  </EntityType>
+  <EntityType Name="TblTrasladoActivo">
+    <Key>
+      <PropertyRef Name="idTraslado" />
+      <PropertyRef Name="patrimonio" />
+    </Key>
+    <Property Name="idTraslado" Type="Int32" Nullable="false" />
+    <Property Name="patrimonio" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="marca" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="modelo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="serie" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="cantidad" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="TblActivos" Relationship="Self.FK__TblTrasla__patri__619B8048" FromRole="TblTrasladoActivo" ToRole="TblActivos" />
+    <NavigationProperty Name="TblTraslado" Relationship="Self.FK__TblTrasla__idTra__60A75C0F" FromRole="TblTrasladoActivo" ToRole="TblTraslado" />
+  </EntityType>
+  <EntityType Name="TblTrasladoConsumibles">
+    <Key>
+      <PropertyRef Name="idTraslado" />
+      <PropertyRef Name="codigo" />
+    </Key>
+    <Property Name="idTraslado" Type="Int32" Nullable="false" />
+    <Property Name="codigo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="marca" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="modelo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="serie" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="cantidad" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="TblConsumibles" Relationship="Self.FK__TblTrasla__codig__6383C8BA" FromRole="TblTrasladoConsumibles" ToRole="TblConsumibles" />
+    <NavigationProperty Name="TblTraslado" Relationship="Self.FK__TblTrasla__idTra__628FA481" FromRole="TblTrasladoConsumibles" ToRole="TblTraslado" />
+  </EntityType>
+  <EntityType Name="TblUbicacion">
+    <Key>
+      <PropertyRef Name="cedula" />
+    </Key>
+    <Property Name="cedula" Type="String" MaxLength="25" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="provincia" Type="String" MaxLength="25" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="canton" Type="String" MaxLength="25" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="distrito" Type="String" MaxLength="25" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="direccion" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="TblEmpleado" Relationship="Self.FK__TblUbicac__cedul__5EBF139D" FromRole="TblUbicacion" ToRole="TblEmpleado" />
+  </EntityType>
+  <EntityType Name="TblUnidadOrganizativa">
+    <Key>
+      <PropertyRef Name="codigo" />
+    </Key>
+    <Property Name="codigo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="nombre" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="telefono" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="latitud" Type="Decimal" Precision="28" Scale="14" Nullable="false" />
+    <Property Name="logitud" Type="Decimal" Precision="28" Scale="14" Nullable="false" />
+    <NavigationProperty Name="TblDependenciaOrganizativa" Relationship="Self.FK__TblDepend__unida__6A30C649" FromRole="TblUnidadOrganizativa" ToRole="TblDependenciaOrganizativa" />
+    <NavigationProperty Name="TblDependenciaOrganizativa1" Relationship="Self.FK__TblDepend__unida__6B24EA82" FromRole="TblUnidadOrganizativa" ToRole="TblDependenciaOrganizativa" />
+    <NavigationProperty Name="TblEmpleado" Relationship="Self.FK__TblEmplea__codig__5DCAEF64" FromRole="TblUnidadOrganizativa" ToRole="TblEmpleado" />
+    <NavigationProperty Name="TblTraslado" Relationship="Self.FK__TblTrasla__unida__6C190EBB" FromRole="TblUnidadOrganizativa" ToRole="TblTraslado" />
+    <NavigationProperty Name="TblTraslado1" Relationship="Self.FK__TblTrasla__unida__6D0D32F4" FromRole="TblUnidadOrganizativa" ToRole="TblTraslado" />
+  </EntityType>
+  <EntityType Name="TblUsuario">
+    <Key>
+      <PropertyRef Name="nombreUsuario" />
+    </Key>
+    <Property Name="nombreUsuario" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="idGrupo" Type="String" MaxLength="4" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="correoElectronico" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="clave" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="bloqueo" Type="Int32" />
+    <NavigationProperty Name="TblGrupo" Relationship="Self.FK__TblUsuari__idGru__5FB337D6" FromRole="TblUsuario" ToRole="TblGrupo" />
+    <NavigationProperty Name="TblMovimiento" Relationship="Self.FK__TblMovimi__nombr__6477ECF3" FromRole="TblUsuario" ToRole="TblMovimiento" />
+    <NavigationProperty Name="TblTraslado" Relationship="Self.FK__TblTrasla__nombr__440B1D61" FromRole="TblUsuario" ToRole="TblTraslado" />
+  </EntityType>
+  <EntityType Name="TblMovimientoActivo">
+    <Key>
+      <PropertyRef Name="patrimonio" />
+    </Key>
+    <Property Name="idMovimiento" Type="Int32" />
+    <Property Name="patrimonio" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="TblActivos" Relationship="Self.FK__TblMovimi__patri__6754599E" FromRole="TblMovimientoActivo" ToRole="TblActivos" />
+    <NavigationProperty Name="TblMovimiento" Relationship="Self.FK__TblMovimi__idMov__66603565" FromRole="TblMovimientoActivo" ToRole="TblMovimiento" />
+  </EntityType>
+  <Association Name="FK__TblActivo__patri__5AEE82B9">
+    <End Role="TblActivos" Type="Self.TblActivos" Multiplicity="1" />
+    <End Role="TblActivoSolicitado" Type="Self.TblActivoSolicitado" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="TblActivos">
+        <PropertyRef Name="patrimonio" />
+      </Principal>
+      <Dependent Role="TblActivoSolicitado">
+        <PropertyRef Name="patrimonio" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__TblMovimi__patri__6754599E">
+    <End Role="TblActivos" Type="Self.TblActivos" Multiplicity="1" />
+    <End Role="TblMovimientoActivo" Type="Self.TblMovimientoActivo" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="TblActivos">
+        <PropertyRef Name="patrimonio" />
+      </Principal>
+      <Dependent Role="TblMovimientoActivo">
+        <PropertyRef Name="patrimonio" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__TblTrasla__patri__619B8048">
+    <End Role="TblActivos" Type="Self.TblActivos" Multiplicity="1" />
+    <End Role="TblTrasladoActivo" Type="Self.TblTrasladoActivo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TblActivos">
+        <PropertyRef Name="patrimonio" />
+      </Principal>
+      <Dependent Role="TblTrasladoActivo">
+        <PropertyRef Name="patrimonio" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__TblMovimi__codig__693CA210">
+    <End Role="TblConsumibles" Type="Self.TblConsumibles" Multiplicity="1" />
+    <End Role="TblMovimientoConsumibles" Type="Self.TblMovimientoConsumibles" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TblConsumibles">
+        <PropertyRef Name="codigo" />
+      </Principal>
+      <Dependent Role="TblMovimientoConsumibles">
+        <PropertyRef Name="codigo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__TblTrasla__codig__6383C8BA">
+    <End Role="TblConsumibles" Type="Self.TblConsumibles" Multiplicity="1" />
+    <End Role="TblTrasladoConsumibles" Type="Self.TblTrasladoConsumibles" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TblConsumibles">
+        <PropertyRef Name="codigo" />
+      </Principal>
+      <Dependent Role="TblTrasladoConsumibles">
+        <PropertyRef Name="codigo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__TblEmplea__idDep__5CD6CB2B">
+    <End Role="TblDepartamento" Type="Self.TblDepartamento" Multiplicity="1" />
+    <End Role="TblEmpleado" Type="Self.TblEmpleado" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TblDepartamento">
+        <PropertyRef Name="idDepartamento" />
+      </Principal>
+      <Dependent Role="TblEmpleado">
+        <PropertyRef Name="idDepartamento" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__TblDepend__unida__6A30C649">
+    <End Role="TblUnidadOrganizativa" Type="Self.TblUnidadOrganizativa" Multiplicity="1" />
+    <End Role="TblDependenciaOrganizativa" Type="Self.TblDependenciaOrganizativa" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TblUnidadOrganizativa">
+        <PropertyRef Name="codigo" />
+      </Principal>
+      <Dependent Role="TblDependenciaOrganizativa">
+        <PropertyRef Name="unidadCabecilla" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__TblDepend__unida__6B24EA82">
+    <End Role="TblUnidadOrganizativa" Type="Self.TblUnidadOrganizativa" Multiplicity="1" />
+    <End Role="TblDependenciaOrganizativa" Type="Self.TblDependenciaOrganizativa" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TblUnidadOrganizativa">
+        <PropertyRef Name="codigo" />
+      </Principal>
+      <Dependent Role="TblDependenciaOrganizativa">
+        <PropertyRef Name="unidadDependiente" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__TblEmplea__codig__5DCAEF64">
+    <End Role="TblUnidadOrganizativa" Type="Self.TblUnidadOrganizativa" Multiplicity="1" />
+    <End Role="TblEmpleado" Type="Self.TblEmpleado" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TblUnidadOrganizativa">
+        <PropertyRef Name="codigo" />
+      </Principal>
+      <Dependent Role="TblEmpleado">
+        <PropertyRef Name="codigoSede" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__TblMovimi__cedEm__656C112C">
+    <End Role="TblEmpleado" Type="Self.TblEmpleado" Multiplicity="1" />
+    <End Role="TblMovimiento" Type="Self.TblMovimiento" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TblEmpleado">
+        <PropertyRef Name="cedula" />
+      </Principal>
+      <Dependent Role="TblMovimiento">
+        <PropertyRef Name="cedEmpleado" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__TblPlaza__cedula__5BE2A6F2">
+    <End Role="TblEmpleado" Type="Self.TblEmpleado" Multiplicity="1" />
+    <End Role="TblPlaza" Type="Self.TblPlaza" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="TblEmpleado">
+        <PropertyRef Name="cedula" />
+      </Principal>
+      <Dependent Role="TblPlaza">
+        <PropertyRef Name="cedula" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__TblUbicac__cedul__5EBF139D">
+    <End Role="TblEmpleado" Type="Self.TblEmpleado" Multiplicity="1" />
+    <End Role="TblUbicacion" Type="Self.TblUbicacion" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="TblEmpleado">
+        <PropertyRef Name="cedula" />
+      </Principal>
+      <Dependent Role="TblUbicacion">
+        <PropertyRef Name="cedula" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__TblUsuari__idGru__5FB337D6">
+    <End Role="TblGrupo" Type="Self.TblGrupo" Multiplicity="1" />
+    <End Role="TblUsuario" Type="Self.TblUsuario" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TblGrupo">
+        <PropertyRef Name="idGrupo" />
+      </Principal>
+      <Dependent Role="TblUsuario">
+        <PropertyRef Name="idGrupo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__TblMovimi__idMov__66603565">
+    <End Role="TblMovimiento" Type="Self.TblMovimiento" Multiplicity="0..1" />
+    <End Role="TblMovimientoActivo" Type="Self.TblMovimientoActivo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TblMovimiento">
+        <PropertyRef Name="idMovimiento" />
+      </Principal>
+      <Dependent Role="TblMovimientoActivo">
+        <PropertyRef Name="idMovimiento" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__TblMovimi__idMov__68487DD7">
+    <End Role="TblMovimiento" Type="Self.TblMovimiento" Multiplicity="1" />
+    <End Role="TblMovimientoConsumibles" Type="Self.TblMovimientoConsumibles" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TblMovimiento">
+        <PropertyRef Name="idMovimiento" />
+      </Principal>
+      <Dependent Role="TblMovimientoConsumibles">
+        <PropertyRef Name="idMovimiento" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__TblMovimi__nombr__6477ECF3">
+    <End Role="TblUsuario" Type="Self.TblUsuario" Multiplicity="1" />
+    <End Role="TblMovimiento" Type="Self.TblMovimiento" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TblUsuario">
+        <PropertyRef Name="nombreUsuario" />
+      </Principal>
+      <Dependent Role="TblMovimiento">
+        <PropertyRef Name="nombreUsuario" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__TblTrasla__idTra__60A75C0F">
+    <End Role="TblTraslado" Type="Self.TblTraslado" Multiplicity="1" />
+    <End Role="TblTrasladoActivo" Type="Self.TblTrasladoActivo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TblTraslado">
+        <PropertyRef Name="idTraslado" />
+      </Principal>
+      <Dependent Role="TblTrasladoActivo">
+        <PropertyRef Name="idTraslado" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__TblTrasla__idTra__628FA481">
+    <End Role="TblTraslado" Type="Self.TblTraslado" Multiplicity="1" />
+    <End Role="TblTrasladoConsumibles" Type="Self.TblTrasladoConsumibles" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TblTraslado">
+        <PropertyRef Name="idTraslado" />
+      </Principal>
+      <Dependent Role="TblTrasladoConsumibles">
+        <PropertyRef Name="idTraslado" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__TblTrasla__nombr__440B1D61">
+    <End Role="TblUsuario" Type="Self.TblUsuario" Multiplicity="1" />
+    <End Role="TblTraslado" Type="Self.TblTraslado" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TblUsuario">
+        <PropertyRef Name="nombreUsuario" />
+      </Principal>
+      <Dependent Role="TblTraslado">
+        <PropertyRef Name="nombreUsuario" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__TblTrasla__unida__6C190EBB">
+    <End Role="TblUnidadOrganizativa" Type="Self.TblUnidadOrganizativa" Multiplicity="1" />
+    <End Role="TblTraslado" Type="Self.TblTraslado" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TblUnidadOrganizativa">
+        <PropertyRef Name="codigo" />
+      </Principal>
+      <Dependent Role="TblTraslado">
+        <PropertyRef Name="unidadSalida" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__TblTrasla__unida__6D0D32F4">
+    <End Role="TblUnidadOrganizativa" Type="Self.TblUnidadOrganizativa" Multiplicity="1" />
+    <End Role="TblTraslado" Type="Self.TblTraslado" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TblUnidadOrganizativa">
+        <PropertyRef Name="codigo" />
+      </Principal>
+      <Dependent Role="TblTraslado">
+        <PropertyRef Name="unidadDestino" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="zensoftEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="TblActivos" EntityType="Self.TblActivos" />
+    <EntitySet Name="TblActivoSolicitado" EntityType="Self.TblActivoSolicitado" />
+    <EntitySet Name="TblConsumibles" EntityType="Self.TblConsumibles" />
+    <EntitySet Name="TblConsumibleSolicitado" EntityType="Self.TblConsumibleSolicitado" />
+    <EntitySet Name="TblDepartamento" EntityType="Self.TblDepartamento" />
+    <EntitySet Name="TblDependenciaOrganizativa" EntityType="Self.TblDependenciaOrganizativa" />
+    <EntitySet Name="TblEmpleado" EntityType="Self.TblEmpleado" />
+    <EntitySet Name="TblGrupo" EntityType="Self.TblGrupo" />
+    <EntitySet Name="TblMovimiento" EntityType="Self.TblMovimiento" />
+    <EntitySet Name="TblMovimientoConsumibles" EntityType="Self.TblMovimientoConsumibles" />
+    <EntitySet Name="TblPlaza" EntityType="Self.TblPlaza" />
+    <EntitySet Name="TblTraslado" EntityType="Self.TblTraslado" />
+    <EntitySet Name="TblTrasladoActivo" EntityType="Self.TblTrasladoActivo" />
+    <EntitySet Name="TblTrasladoConsumibles" EntityType="Self.TblTrasladoConsumibles" />
+    <EntitySet Name="TblUbicacion" EntityType="Self.TblUbicacion" />
+    <EntitySet Name="TblUnidadOrganizativa" EntityType="Self.TblUnidadOrganizativa" />
+    <EntitySet Name="TblUsuario" EntityType="Self.TblUsuario" />
+    <EntitySet Name="TblMovimientoActivo" EntityType="Self.TblMovimientoActivo" />
+    <AssociationSet Name="FK__TblActivo__patri__5AEE82B9" Association="Self.FK__TblActivo__patri__5AEE82B9">
+      <End Role="TblActivos" EntitySet="TblActivos" />
+      <End Role="TblActivoSolicitado" EntitySet="TblActivoSolicitado" />
+    </AssociationSet>
+    <AssociationSet Name="FK__TblMovimi__patri__6754599E" Association="Self.FK__TblMovimi__patri__6754599E">
+      <End Role="TblActivos" EntitySet="TblActivos" />
+      <End Role="TblMovimientoActivo" EntitySet="TblMovimientoActivo" />
+    </AssociationSet>
+    <AssociationSet Name="FK__TblTrasla__patri__619B8048" Association="Self.FK__TblTrasla__patri__619B8048">
+      <End Role="TblActivos" EntitySet="TblActivos" />
+      <End Role="TblTrasladoActivo" EntitySet="TblTrasladoActivo" />
+    </AssociationSet>
+    <AssociationSet Name="FK__TblMovimi__codig__693CA210" Association="Self.FK__TblMovimi__codig__693CA210">
+      <End Role="TblConsumibles" EntitySet="TblConsumibles" />
+      <End Role="TblMovimientoConsumibles" EntitySet="TblMovimientoConsumibles" />
+    </AssociationSet>
+    <AssociationSet Name="FK__TblTrasla__codig__6383C8BA" Association="Self.FK__TblTrasla__codig__6383C8BA">
+      <End Role="TblConsumibles" EntitySet="TblConsumibles" />
+      <End Role="TblTrasladoConsumibles" EntitySet="TblTrasladoConsumibles" />
+    </AssociationSet>
+    <AssociationSet Name="FK__TblEmplea__idDep__5CD6CB2B" Association="Self.FK__TblEmplea__idDep__5CD6CB2B">
+      <End Role="TblDepartamento" EntitySet="TblDepartamento" />
+      <End Role="TblEmpleado" EntitySet="TblEmpleado" />
+    </AssociationSet>
+    <AssociationSet Name="FK__TblDepend__unida__6A30C649" Association="Self.FK__TblDepend__unida__6A30C649">
+      <End Role="TblUnidadOrganizativa" EntitySet="TblUnidadOrganizativa" />
+      <End Role="TblDependenciaOrganizativa" EntitySet="TblDependenciaOrganizativa" />
+    </AssociationSet>
+    <AssociationSet Name="FK__TblDepend__unida__6B24EA82" Association="Self.FK__TblDepend__unida__6B24EA82">
+      <End Role="TblUnidadOrganizativa" EntitySet="TblUnidadOrganizativa" />
+      <End Role="TblDependenciaOrganizativa" EntitySet="TblDependenciaOrganizativa" />
+    </AssociationSet>
+    <AssociationSet Name="FK__TblEmplea__codig__5DCAEF64" Association="Self.FK__TblEmplea__codig__5DCAEF64">
+      <End Role="TblUnidadOrganizativa" EntitySet="TblUnidadOrganizativa" />
+      <End Role="TblEmpleado" EntitySet="TblEmpleado" />
+    </AssociationSet>
+    <AssociationSet Name="FK__TblMovimi__cedEm__656C112C" Association="Self.FK__TblMovimi__cedEm__656C112C">
+      <End Role="TblEmpleado" EntitySet="TblEmpleado" />
+      <End Role="TblMovimiento" EntitySet="TblMovimiento" />
+    </AssociationSet>
+    <AssociationSet Name="FK__TblPlaza__cedula__5BE2A6F2" Association="Self.FK__TblPlaza__cedula__5BE2A6F2">
+      <End Role="TblEmpleado" EntitySet="TblEmpleado" />
+      <End Role="TblPlaza" EntitySet="TblPlaza" />
+    </AssociationSet>
+    <AssociationSet Name="FK__TblUbicac__cedul__5EBF139D" Association="Self.FK__TblUbicac__cedul__5EBF139D">
+      <End Role="TblEmpleado" EntitySet="TblEmpleado" />
+      <End Role="TblUbicacion" EntitySet="TblUbicacion" />
+    </AssociationSet>
+    <AssociationSet Name="FK__TblUsuari__idGru__5FB337D6" Association="Self.FK__TblUsuari__idGru__5FB337D6">
+      <End Role="TblGrupo" EntitySet="TblGrupo" />
+      <End Role="TblUsuario" EntitySet="TblUsuario" />
+    </AssociationSet>
+    <AssociationSet Name="FK__TblMovimi__idMov__66603565" Association="Self.FK__TblMovimi__idMov__66603565">
+      <End Role="TblMovimiento" EntitySet="TblMovimiento" />
+      <End Role="TblMovimientoActivo" EntitySet="TblMovimientoActivo" />
+    </AssociationSet>
+    <AssociationSet Name="FK__TblMovimi__idMov__68487DD7" Association="Self.FK__TblMovimi__idMov__68487DD7">
+      <End Role="TblMovimiento" EntitySet="TblMovimiento" />
+      <End Role="TblMovimientoConsumibles" EntitySet="TblMovimientoConsumibles" />
+    </AssociationSet>
+    <AssociationSet Name="FK__TblMovimi__nombr__6477ECF3" Association="Self.FK__TblMovimi__nombr__6477ECF3">
+      <End Role="TblUsuario" EntitySet="TblUsuario" />
+      <End Role="TblMovimiento" EntitySet="TblMovimiento" />
+    </AssociationSet>
+    <AssociationSet Name="FK__TblTrasla__idTra__60A75C0F" Association="Self.FK__TblTrasla__idTra__60A75C0F">
+      <End Role="TblTraslado" EntitySet="TblTraslado" />
+      <End Role="TblTrasladoActivo" EntitySet="TblTrasladoActivo" />
+    </AssociationSet>
+    <AssociationSet Name="FK__TblTrasla__idTra__628FA481" Association="Self.FK__TblTrasla__idTra__628FA481">
+      <End Role="TblTraslado" EntitySet="TblTraslado" />
+      <End Role="TblTrasladoConsumibles" EntitySet="TblTrasladoConsumibles" />
+    </AssociationSet>
+    <AssociationSet Name="FK__TblTrasla__nombr__440B1D61" Association="Self.FK__TblTrasla__nombr__440B1D61">
+      <End Role="TblUsuario" EntitySet="TblUsuario" />
+      <End Role="TblTraslado" EntitySet="TblTraslado" />
+    </AssociationSet>
+    <AssociationSet Name="FK__TblTrasla__unida__6C190EBB" Association="Self.FK__TblTrasla__unida__6C190EBB">
+      <End Role="TblUnidadOrganizativa" EntitySet="TblUnidadOrganizativa" />
+      <End Role="TblTraslado" EntitySet="TblTraslado" />
+    </AssociationSet>
+    <AssociationSet Name="FK__TblTrasla__unida__6D0D32F4" Association="Self.FK__TblTrasla__unida__6D0D32F4">
+      <End Role="TblUnidadOrganizativa" EntitySet="TblUnidadOrganizativa" />
+      <End Role="TblTraslado" EntitySet="TblTraslado" />
+    </AssociationSet>
+    <FunctionImport Name="SP_CNS_ACTIVO" ReturnType="Collection(zensoftModel.SP_CNS_ACTIVO_Result)">
+      <Parameter Name="patrimonio" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="SP_CNS_ACTIVOS" ReturnType="Collection(zensoftModel.SP_CNS_ACTIVOS_Result)">
+      <Parameter Name="patriminio" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="SP_CNS_ACTIVOSDISPONIBLES" ReturnType="Collection(zensoftModel.SP_CNS_ACTIVOSDISPONIBLES_Result)" />
+    <FunctionImport Name="SP_CNS_ACTIVOSPRESTAMO" ReturnType="Collection(zensoftModel.SP_CNS_ACTIVOSPRESTAMO_Result)">
+      <Parameter Name="idMov" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="SP_CNS_CODDISPONIBLES" ReturnType="Collection(String)" />
+    <FunctionImport Name="SP_CNS_CONSUMIBLE_FECHAS2" ReturnType="Collection(zensoftModel.SP_CNS_CONSUMIBLE_FECHAS2_Result)">
+      <Parameter Name="desde" Mode="In" Type="DateTime" />
+      <Parameter Name="hasta" Mode="In" Type="DateTime" />
+    </FunctionImport>
+    <FunctionImport Name="SP_CNS_CONSUMIBLES" ReturnType="Collection(zensoftModel.SP_CNS_CONSUMIBLES_Result)">
+      <Parameter Name="codigo" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="SP_CNS_CONSUMIBLES2" ReturnType="Collection(zensoftModel.SP_CNS_CONSUMIBLES2_Result)">
+      <Parameter Name="codigo" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="SP_CNS_CONSUMIBLESDISPONIBLES" ReturnType="Collection(zensoftModel.SP_CNS_CONSUMIBLESDISPONIBLES_Result)" />
+    <FunctionImport Name="SP_CNS_CONSUMIBLESSOLICITUD" ReturnType="Collection(zensoftModel.SP_CNS_CONSUMIBLESSOLICITUD_Result)" />
+    <FunctionImport Name="SP_CNS_EMPLEADOS" ReturnType="Collection(zensoftModel.SP_CNS_EMPLEADOS_Result)">
+      <Parameter Name="cedula" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="SP_CNS_PRESTAMOSxEMPLEADO" ReturnType="Collection(zensoftModel.SP_CNS_PRESTAMOSxEMPLEADO_Result)">
+      <Parameter Name="cedula" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="SP_CNS_Usuarios" ReturnType="Collection(zensoftModel.SP_CNS_Usuarios_Result)">
+      <Parameter Name="grupo" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="SP_INS_MOVACTIVO">
+      <Parameter Name="patrimonio" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="SP_INS_MOVCONSUMIBLE">
+      <Parameter Name="codigo" Mode="In" Type="String" />
+      <Parameter Name="cantidad" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="SP_UO_List" ReturnType="Collection(zensoftModel.SP_UO_List_Result)">
+      <Parameter Name="codigo" Mode="In" Type="String" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="SP_CNS_ACTIVO_Result">
+    <Property Type="String" Name="Patrimonio" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Nombre" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Marca" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Modelo" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Serie" Nullable="false" MaxLength="50" />
+  </ComplexType>
+  <ComplexType Name="SP_CNS_ACTIVOS_Result">
+    <Property Type="String" Name="Patrimonio" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Nombre" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Marca" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Modelo" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Serie" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Estado" Nullable="true" MaxLength="7" />
+    <Property Type="String" Name="Disponibilidad" Nullable="true" MaxLength="8" />
+  </ComplexType>
+  <ComplexType Name="SP_CNS_ACTIVOSDISPONIBLES_Result">
+    <Property Type="String" Name="Patrimonio" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Nombre" Nullable="false" MaxLength="50" />
+  </ComplexType>
+  <ComplexType Name="SP_CNS_ACTIVOSPRESTAMO_Result">
+    <Property Type="String" Name="patrimonio" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="nombre" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="marca" Nullable="false" MaxLength="50" />
+  </ComplexType>
+  <ComplexType Name="SP_CNS_CONSUMIBLE_FECHAS2_Result">
+    <Property Type="String" Name="Código" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="NombreC" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Marca" Nullable="false" MaxLength="50" />
+    <Property Type="DateTime" Name="Fecha" Nullable="false" />
+    <Property Type="String" Name="NombreE" Nullable="false" MaxLength="50" />
+    <Property Type="Int32" Name="Cantidad" Nullable="false" />
+    <Property Type="String" Name="Observacíón" Nullable="false" MaxLength="200" />
+  </ComplexType>
+  <ComplexType Name="SP_CNS_CONSUMIBLES_Result">
+    <Property Type="String" Name="Codigo" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Nombre" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Marca" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Descripcion" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="UnidadMedida" Nullable="false" MaxLength="4" />
+    <Property Type="Int32" Name="Stock" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="SP_CNS_CONSUMIBLES2_Result">
+    <Property Type="String" Name="Codigo" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Nombre" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Marca" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Modelo" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Serie" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Descripcion" Nullable="false" MaxLength="50" />
+    <Property Type="Int32" Name="Stock" Nullable="true" />
+    <Property Type="String" Name="Unidad" Nullable="false" MaxLength="4" />
+  </ComplexType>
+  <ComplexType Name="SP_CNS_CONSUMIBLESDISPONIBLES_Result">
+    <Property Type="String" Name="Codigo" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Nombre" Nullable="false" MaxLength="50" />
+  </ComplexType>
+  <ComplexType Name="SP_CNS_CONSUMIBLESSOLICITUD_Result">
+    <Property Type="String" Name="Codigo" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Nombre" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Marca" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Descripcion" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="UnidadMedida" Nullable="false" MaxLength="4" />
+    <Property Type="Int32" Name="Cantidad" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="SP_CNS_EMPLEADOS_Result">
+    <Property Type="String" Name="Cedula" Nullable="false" MaxLength="25" />
+    <Property Type="String" Name="Nombre" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Telefono" Nullable="false" MaxLength="20" />
+    <Property Type="String" Name="Sede" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="Departamento" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Condicion" Nullable="true" MaxLength="9" />
+  </ComplexType>
+  <ComplexType Name="SP_CNS_PRESTAMOSxEMPLEADO_Result">
+    <Property Type="Int32" Name="IDMovimiento" Nullable="false" />
+    <Property Type="String" Name="Nombre_Empleado" Nullable="false" MaxLength="50" />
+    <Property Type="DateTime" Name="Fecha" Nullable="false" />
+    <Property Type="Int32" Name="Cantidad_Activos" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="SP_CNS_Usuarios_Result">
+    <Property Type="String" Name="CodigoGrupo" Nullable="false" MaxLength="4" />
+    <Property Type="String" Name="NombreUsuario" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Correo" Nullable="false" MaxLength="30" />
+  </ComplexType>
+  <ComplexType Name="SP_UO_List_Result">
+    <Property Type="String" Name="Codigo" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Nombre" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="Telefono" Nullable="false" MaxLength="50" />
+  </ComplexType>
+</Schema>

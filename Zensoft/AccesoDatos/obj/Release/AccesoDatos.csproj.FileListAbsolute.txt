@@ -1,0 +1,25 @@
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\AccesoDatos\bin\Release\AccesoDatos.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\AccesoDatos\bin\Release\AccesoDatos.pdb
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\AccesoDatos\bin\Release\Entidades.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\AccesoDatos\bin\Release\EntityFramework.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\AccesoDatos\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\AccesoDatos\bin\Release\Entidades.pdb
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\AccesoDatos\bin\Release\Entidades.dll.config
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\AccesoDatos\bin\Release\EntityFramework.xml
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\AccesoDatos\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\AccesoDatos\obj\Release\AccesoDatos.csproj.CopyComplete
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\AccesoDatos\obj\Release\AccesoDatos.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\AccesoDatos\obj\Release\AccesoDatos.pdb
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\AccesoDatos\obj\Release\AccesoDatos.csprojAssemblyReference.cache
+C:\Users\José Rodolfo\Desktop\Zensoft\AccesoDatos\bin\Release\AccesoDatos.dll
+C:\Users\José Rodolfo\Desktop\Zensoft\AccesoDatos\bin\Release\AccesoDatos.pdb
+C:\Users\José Rodolfo\Desktop\Zensoft\AccesoDatos\bin\Release\Entidades.dll
+C:\Users\José Rodolfo\Desktop\Zensoft\AccesoDatos\bin\Release\EntityFramework.dll
+C:\Users\José Rodolfo\Desktop\Zensoft\AccesoDatos\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\José Rodolfo\Desktop\Zensoft\AccesoDatos\bin\Release\Entidades.pdb
+C:\Users\José Rodolfo\Desktop\Zensoft\AccesoDatos\bin\Release\Entidades.dll.config
+C:\Users\José Rodolfo\Desktop\Zensoft\AccesoDatos\bin\Release\EntityFramework.xml
+C:\Users\José Rodolfo\Desktop\Zensoft\AccesoDatos\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\José Rodolfo\Desktop\Zensoft\AccesoDatos\obj\Release\AccesoDatos.csproj.CopyComplete
+C:\Users\José Rodolfo\Desktop\Zensoft\AccesoDatos\obj\Release\AccesoDatos.dll
+C:\Users\José Rodolfo\Desktop\Zensoft\AccesoDatos\obj\Release\AccesoDatos.pdb

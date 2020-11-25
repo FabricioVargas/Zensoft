@@ -1,0 +1,78 @@
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\AccesoDatos\bin\Debug\Entidades.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\AccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\AccesoDatos\bin\Debug\Entidades.pdb
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\AccesoDatos\bin\Debug\Entidades.dll.config
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\AccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\AccesoDatos\obj\Debug\AccesoDatos.csprojAssemblyReference.cache
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\AccesoDatos\obj\Debug\AccesoDatos.csproj.CopyComplete
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\José Rodolfo\Desktop\Zensoft\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\José Rodolfo\Desktop\Zensoft\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\José Rodolfo\Desktop\Zensoft\AccesoDatos\bin\Debug\Entidades.dll
+C:\Users\José Rodolfo\Desktop\Zensoft\AccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\José Rodolfo\Desktop\Zensoft\AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\José Rodolfo\Desktop\Zensoft\AccesoDatos\bin\Debug\Entidades.pdb
+C:\Users\José Rodolfo\Desktop\Zensoft\AccesoDatos\bin\Debug\Entidades.dll.config
+C:\Users\José Rodolfo\Desktop\Zensoft\AccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\José Rodolfo\Desktop\Zensoft\AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\José Rodolfo\Desktop\Zensoft\AccesoDatos\obj\Debug\AccesoDatos.csproj.CopyComplete
+C:\Users\José Rodolfo\Desktop\Zensoft\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\José Rodolfo\Desktop\Zensoft\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\José Rodolfo\Desktop\Zensoft\AccesoDatos\obj\Debug\AccesoDatos.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Zensoft\Zensoft\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\Admin\Desktop\Zensoft\Zensoft\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\Admin\Desktop\Zensoft\Zensoft\AccesoDatos\bin\Debug\Entidades.dll
+C:\Users\Admin\Desktop\Zensoft\Zensoft\AccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Zensoft\Zensoft\AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Zensoft\Zensoft\AccesoDatos\bin\Debug\Entidades.pdb
+C:\Users\Admin\Desktop\Zensoft\Zensoft\AccesoDatos\bin\Debug\Entidades.dll.config
+C:\Users\Admin\Desktop\Zensoft\Zensoft\AccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Zensoft\Zensoft\AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Zensoft\Zensoft\AccesoDatos\obj\Debug\AccesoDatos.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Zensoft\Zensoft\AccesoDatos\obj\Debug\AccesoDatos.csproj.CopyComplete
+C:\Users\Admin\Desktop\Zensoft\Zensoft\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\Admin\Desktop\Zensoft\Zensoft\AccesoDatos\obj\Debug\AccesoDatos.pdb
+D:\escri\Final este sí\Zensoft\AccesoDatos\bin\Debug\AccesoDatos.dll
+D:\escri\Final este sí\Zensoft\AccesoDatos\bin\Debug\AccesoDatos.pdb
+D:\escri\Final este sí\Zensoft\AccesoDatos\bin\Debug\Entidades.dll
+D:\escri\Final este sí\Zensoft\AccesoDatos\bin\Debug\EntityFramework.dll
+D:\escri\Final este sí\Zensoft\AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+D:\escri\Final este sí\Zensoft\AccesoDatos\bin\Debug\Entidades.pdb
+D:\escri\Final este sí\Zensoft\AccesoDatos\bin\Debug\Entidades.dll.config
+D:\escri\Final este sí\Zensoft\AccesoDatos\bin\Debug\EntityFramework.xml
+D:\escri\Final este sí\Zensoft\AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+D:\escri\Final este sí\Zensoft\AccesoDatos\obj\Debug\AccesoDatos.csprojAssemblyReference.cache
+D:\escri\Final este sí\Zensoft\AccesoDatos\obj\Debug\AccesoDatos.csproj.CopyComplete
+D:\escri\Final este sí\Zensoft\AccesoDatos\obj\Debug\AccesoDatos.dll
+D:\escri\Final este sí\Zensoft\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\AccesoDatos\bin\Debug\Entidades.pdb
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\AccesoDatos\bin\Debug\Entidades.dll.config
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\AccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\AccesoDatos\obj\Debug\AccesoDatos.csprojAssemblyReference.cache
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\AccesoDatos\obj\Debug\AccesoDatos.csproj.CopyComplete
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\AccesoDatos\bin\Debug\Entidades.dll
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\AccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\Geovanni Fernández E\Desktop\ZenSoft\Zensoft\AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\AccesoDatos\bin\Debug\Entidades.pdb
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\AccesoDatos\bin\Debug\Entidades.dll.config
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\AccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\AccesoDatos\obj\Debug\AccesoDatos.csprojAssemblyReference.cache
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\AccesoDatos\obj\Debug\AccesoDatos.csproj.CopyComplete
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\AccesoDatos\bin\Debug\Entidades.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\AccesoDatos\bin\Debug\EntityFramework.dll

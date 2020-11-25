@@ -1,0 +1,11 @@
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Entidades\bin\Debug\Entidades.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Entidades\bin\Debug\EntityFramework.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Entidades\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Entidades\bin\Debug\EntityFramework.xml
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Entidades\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Entidades\obj\Debug\Entidades.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Proyecto Análisi MEJORADO\Prueba2\ZenSoft\Zensoft\Entidades\obj\Debug\Entidades.pdb

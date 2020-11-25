@@ -1,0 +1,30 @@
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\LogicaNegocio\bin\Release\LogicaNegocio.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\LogicaNegocio\bin\Release\LogicaNegocio.pdb
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\LogicaNegocio\bin\Release\AccesoDatos.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\LogicaNegocio\bin\Release\Entidades.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\LogicaNegocio\bin\Release\EntityFramework.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\LogicaNegocio\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\LogicaNegocio\bin\Release\AccesoDatos.pdb
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\LogicaNegocio\bin\Release\Entidades.pdb
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\LogicaNegocio\bin\Release\Entidades.dll.config
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\LogicaNegocio\bin\Release\EntityFramework.xml
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\LogicaNegocio\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\LogicaNegocio\obj\Release\LogicaNegocio.csprojAssemblyReference.cache
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\LogicaNegocio\obj\Release\LogicaNegocio.csproj.CopyComplete
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\LogicaNegocio\obj\Release\LogicaNegocio.dll
+C:\Users\Fabricio Vargas\Documents\Semestre #6\Analisis de Sistemas\Proyecto\Proyecto 3.1\Zensoft\LogicaNegocio\obj\Release\LogicaNegocio.pdb
+C:\Users\José Rodolfo\Desktop\Zensoft\LogicaNegocio\obj\Release\LogicaNegocio.csprojAssemblyReference.cache
+C:\Users\José Rodolfo\Desktop\Zensoft\LogicaNegocio\bin\Release\LogicaNegocio.dll
+C:\Users\José Rodolfo\Desktop\Zensoft\LogicaNegocio\bin\Release\LogicaNegocio.pdb
+C:\Users\José Rodolfo\Desktop\Zensoft\LogicaNegocio\bin\Release\AccesoDatos.dll
+C:\Users\José Rodolfo\Desktop\Zensoft\LogicaNegocio\bin\Release\Entidades.dll
+C:\Users\José Rodolfo\Desktop\Zensoft\LogicaNegocio\bin\Release\EntityFramework.dll
+C:\Users\José Rodolfo\Desktop\Zensoft\LogicaNegocio\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\José Rodolfo\Desktop\Zensoft\LogicaNegocio\bin\Release\AccesoDatos.pdb
+C:\Users\José Rodolfo\Desktop\Zensoft\LogicaNegocio\bin\Release\Entidades.pdb
+C:\Users\José Rodolfo\Desktop\Zensoft\LogicaNegocio\bin\Release\Entidades.dll.config
+C:\Users\José Rodolfo\Desktop\Zensoft\LogicaNegocio\bin\Release\EntityFramework.xml
+C:\Users\José Rodolfo\Desktop\Zensoft\LogicaNegocio\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\José Rodolfo\Desktop\Zensoft\LogicaNegocio\obj\Release\LogicaNegocio.csproj.CopyComplete
+C:\Users\José Rodolfo\Desktop\Zensoft\LogicaNegocio\obj\Release\LogicaNegocio.dll
+C:\Users\José Rodolfo\Desktop\Zensoft\LogicaNegocio\obj\Release\LogicaNegocio.pdb
